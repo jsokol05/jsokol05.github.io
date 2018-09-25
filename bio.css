@@ -20,6 +20,18 @@
 	color: #50504F;
 }
 
+.home_link	{
+	text-decoration: none;
+}
+
+.home_link:hover	{
+	text-decoration: underline;
+}
+
+.home_link:visited	{
+	color: #50504F;
+}
+
 body {
 	background-color: #EEF2E3;
 	color: #50504F;
