@@ -9,6 +9,15 @@
 	text-align: left;
 	margin-top: 0px;
 	margin-bottom: 0px;
+	text-decoration: none;
+}
+
+.menu_item:hover	{
+	text-decoration: underline;
+}
+
+.menu_item:visited	{
+	color: #50504F;
 }
 
 body {
