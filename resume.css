@@ -1,7 +1,24 @@
-.menu_item	{
+#image {
+  width: 100px;
+  height: auto;
+  margin-left: 47%;
+}
+
+a	{
 	font-size: 18px;
+	color: #50504F;
 	text-align: left;
 	margin-top: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+}
+
+a:hover	{
+	text-decoration: underline;
+}
+
+a:visited	{
+	color: #50504F;
 }
 
 body {
@@ -31,5 +48,5 @@ h2	{
 	font-size: 24px;
 	font-family: Geneva;
 	letter-spacing: 2px;
-	margin-bottom: 50px;
+	margin-bottom: 25px;
 }
