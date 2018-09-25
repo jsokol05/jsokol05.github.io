@@ -10,6 +10,23 @@
   margin-left: 47%;
 }
 
+a	{
+	font-size: 18px;
+	color: #50504F;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+}
+
+a:hover	{
+	text-decoration: underline;
+}
+
+a:visited	{
+	color: #50504F;
+}
+
 body {
 	background-color: #EEF2E3;
 	color: #50504F;
